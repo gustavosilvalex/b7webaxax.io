@@ -36,7 +36,7 @@ header
 }
 .logo:hover
 {
-    background-image: linear-gradient(90deg,gold, goldenrod, rgb(194, 149, 34), rgb(184, 147, 53), darkgoldenrod);
+    background-image: linear-gradient(90deg, goldenrod, rgb(194, 149, 34), rgb(184, 147, 53), darkgoldenrod);
 }
 .logoimg
 {   
@@ -172,7 +172,7 @@ footer {
 {   
     height:calc(100vh - 100px);
     background-color: violet;
-    background-image:url('../images/bg2.jpg');
+    background-image:url('../images/background/back.jpg');
     background-size: cover;
     background-position:center;
     overflow: hidden;
@@ -468,7 +468,7 @@ OUR TEAM
 
 .bgteam
 {
-    background-image:url('../images/bg5.jpg');
+    background-image:url('../images/background/back2.jpg');
     background-size: cover;
     background-position:center;
     padding: 0;
